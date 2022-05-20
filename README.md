@@ -9,7 +9,7 @@
 -   Use Python 3.x.x+
 -   Use Django 3.x.x+
 
-## Future
+## Features
 1. JWT authentication system
 2. Admin Panel
 3. Add, update, delete product
